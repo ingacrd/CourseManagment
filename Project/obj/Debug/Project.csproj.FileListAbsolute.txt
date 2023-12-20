@@ -1,0 +1,17 @@
+C:\CAROLINA\Multitier\Project\Project\bin\Debug\Project.exe.config
+C:\CAROLINA\Multitier\Project\Project\bin\Debug\Project.exe
+C:\CAROLINA\Multitier\Project\Project\bin\Debug\Project.pdb
+C:\CAROLINA\Multitier\Project\Project\bin\Debug\EntityFramework.dll
+C:\CAROLINA\Multitier\Project\Project\bin\Debug\EntityFramework.SqlServer.dll
+C:\CAROLINA\Multitier\Project\Project\bin\Debug\EntityFramework.xml
+C:\CAROLINA\Multitier\Project\Project\bin\Debug\EntityFramework.SqlServer.xml
+C:\CAROLINA\Multitier\Project\Project\obj\Debug\Project.csproj.AssemblyReference.cache
+C:\CAROLINA\Multitier\Project\Project\obj\Debug\Project.csproj.SuggestedBindingRedirects.cache
+C:\CAROLINA\Multitier\Project\Project\obj\Debug\Project.LoginForm.resources
+C:\CAROLINA\Multitier\Project\Project\obj\Debug\Project.Properties.Resources.resources
+C:\CAROLINA\Multitier\Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+C:\CAROLINA\Multitier\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\CAROLINA\Multitier\Project\Project\obj\Debug\Project.csproj.CopyComplete
+C:\CAROLINA\Multitier\Project\Project\obj\Debug\Project.exe
+C:\CAROLINA\Multitier\Project\Project\obj\Debug\Project.pdb
+C:\CAROLINA\Multitier\Project\Project\obj\Debug\Project.GUI.CourseAssignmentForm.resources
